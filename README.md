@@ -1,1 +1,1 @@
-# Pure-Javascript-Check-All-Checkbox
+# Pure Javascript Check All Checkbox
